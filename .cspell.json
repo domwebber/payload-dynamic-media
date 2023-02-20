@@ -1,0 +1,16 @@
+{
+    "version": "0.2",
+    "useGitignore": true,
+    "language": "en-gb",
+    "dictionaries": [
+        "softwareTerms",
+        "typescript",
+        "node",
+        "html",
+        "bash",
+        "filetypes",
+        "npm"
+    ],
+    "words": [],
+    "ignoreWords": []
+}
