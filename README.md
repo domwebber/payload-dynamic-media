@@ -9,13 +9,13 @@ This plugin is heavily inspired by and based on the code from the
 
 ## Why this plugin?
 
-**Uses**
+**Uses**\
 This plugin was conceptualised for dynamic image resizing with sharp and
 Next.js, the implementation for which was heavily inspired by
 [the official Payload CMS Cloud Storage Plugin](https://github.com/payloadcms/plugin-cloud-storage)
 and [express-sharp](https://github.com/pmb0/express-sharp).
 
-**Instead of the official Payload CMS Cloud Storage Plugin?**
+**Instead of the official Payload CMS Cloud Storage Plugin?**\
 This plugin provides the opportunity for dynamic resizing for images and media
 whereas the [official plugin](https://github.com/payloadcms/plugin-cloud-storage)
 handles only storage and retrieval.
